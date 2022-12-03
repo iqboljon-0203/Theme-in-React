@@ -1,0 +1,9 @@
+.user{
+    border: 1px solid black;
+}
+.user:hover{
+    background-color:#efefef;
+}
+.user:active{
+    background-color:#ccc;
+}
